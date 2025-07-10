@@ -88,8 +88,19 @@ ERP-GST-View/
 
 ## ✅ Author
 
-**[Your Name]**  
+**Shubham Kakde**  
 ERP GST Reporting Specialist | Oracle SQL Expert | Finance & Compliance Systems
+
+📜 SQL Code Summary (VIEW_GST.sql)
+The VIEW_GST is composed of:
+
+First SELECT block from itemtran_head and itemtran_body for transactional GST
+
+Second SELECT block using VIEW_ACC_TRAN_ENGINE for accounting entries
+
+Dynamic GST classification via CASE, utility functions, and tax code mapping
+
+GST-specific subqueries for addresses and state codes
 
 ---
 
